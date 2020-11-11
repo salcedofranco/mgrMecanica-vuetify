@@ -1,4 +1,4 @@
-# Landing Page Template
+
 
 ## Project setup
 
